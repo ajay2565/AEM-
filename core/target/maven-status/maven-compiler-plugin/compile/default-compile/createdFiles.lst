@@ -1,0 +1,8 @@
+AEM_Training\AEM\core\package-info.class
+AEM_Training\AEM\core\filters\LoggingFilter.class
+AEM_Training\AEM\core\servlets\SimpleServlet.class
+AEM_Training\AEM\core\service\impl\ConfigurationServiceImpl.class
+AEM_Training\AEM\core\listeners\SimpleResourceListener.class
+AEM_Training\AEM\core\service\ConfigurationService.class
+AEM_Training\AEM\core\models\HelloWorldModel.class
+AEM_Training\AEM\core\schedulers\SimpleScheduledTask.class
